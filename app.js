@@ -1,5 +1,5 @@
 import express from "express";
-import employees from "./employees.js";
+import employees from "./db/employees.js";
 
 const app = express();
 
